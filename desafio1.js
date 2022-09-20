@@ -5,11 +5,9 @@ class Usuario {
     constructor(){
         this.nombre = 'Matias'
         this.apellido = 'Roccazzella'
-
         this.libros = [
             {nombre: 'El diario de Ana Frank', autor: 'Ana Frank'}
         ]
-
         this.mascotas = ['gato']
     }
 
