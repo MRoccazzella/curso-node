@@ -5,43 +5,18 @@
       "id": 1
    },
    {
-      "titulo": "fideos",
-      "precio": 350,
+      "titulo": "carne",
+      "precio": 900,
       "id": 2
    },
    {
-      "titulo": "fideos",
-      "precio": 350,
+      "titulo": "arroz",
+      "precio": 300,
       "id": 3
    },
    {
-      "titulo": "fideos",
-      "precio": 350,
+      "titulo": "chocolate",
+      "precio": 500,
       "id": 4
-   },
-   {
-      "titulo": "fideos",
-      "precio": 350,
-      "id": 5
-   },
-   {
-      "titulo": "fideos",
-      "precio": 350,
-      "id": 6
-   },
-   {
-      "titulo": "fideos",
-      "precio": 350,
-      "id": 7
-   },
-   {
-      "titulo": "fideos",
-      "precio": 350,
-      "id": 8
-   },
-   {
-      "titulo": "fideos",
-      "precio": 350,
-      "id": 9
    }
 ]

@@ -1,0 +1,22 @@
+{
+  "name": "curso---node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "desafio1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MRoccazzella/curso-node.git"
+  },
+  "author": "Matias Roccazzella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MRoccazzella/curso-node/issues"
+  },
+  "homepage": "https://github.com/MRoccazzella/curso-node#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}

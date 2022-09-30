@@ -1,11 +1,6 @@
 //ENTREGABLE DESAFIO 2 - ARCHIVOS
 const {promises:fs} = require('fs')
-class Productos{
-    constructor(titulo,precio){
-        this.titulo = titulo
-        this.precio = precio
-    }
-}
+
 class Container{
     //CONSTRUCTOR
     constructor(route){
@@ -78,6 +73,7 @@ class Container{
     }
 }
 const archivo = new Container('./archivo.json')
+export { Container }
 
 //archivo.getAll().then((data) => console.log({data})).catch((error) => console.log({error}))
 
