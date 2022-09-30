@@ -59,5 +59,6 @@ app.get('/productoRandom', (req, res) =>{
     })
     .catch((error) => console.log({error}))
 })
+app.all('*', (req,res) => res.send('La ruta no es valida'))
 
 app.listen( PORT, () => console.log(`Server listening on PORT ${PORT}`));
