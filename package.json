@@ -2,7 +2,7 @@
   "name": "curso---node",
   "version": "1.0.0",
   "description": "",
-  "main": "desafio1.js",
+  "main": "desafio4.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

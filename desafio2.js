@@ -72,8 +72,8 @@ class Container{
         } 
     }
 }
-const archivo = new Container('./archivo.json')
-export { Container }
+export default Container
+
 
 //archivo.getAll().then((data) => console.log({data})).catch((error) => console.log({error}))
 
