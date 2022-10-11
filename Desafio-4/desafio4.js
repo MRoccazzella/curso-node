@@ -42,11 +42,4 @@ app.use(express.json());
 const routerProductos = require("./routes/routerProductos.js");
 
 app.use("/api/productos", routerProductos);
-// app.use("/formulario", express.static(__dirname + "/public/index.html"));
 
-// document.querySelector("#agregar")
-// .addEventListener("onclick", handleChange);
-
-// const handleChange = () => {
-//   getAll().then((data) => save(data).then((data) => console.log(data)));
-// };
