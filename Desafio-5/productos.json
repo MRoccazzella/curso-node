@@ -1,0 +1,32 @@
+[
+   {
+      "titulo": "fideos",
+      "precio": 350,
+      "thumbnail": "",
+      "id": 1
+   },
+   {
+      "titulo": "arroz",
+      "precio": 300,
+      "thumbnail": "",
+      "id": 3
+   },
+   {
+      "titulo": "chocolate",
+      "precio": 500,
+      "thumbnail": "",
+      "id": 4
+   },
+   {
+      "titulo": "Harina",
+      "precio": 200,
+      "thumbnail": "",
+      "id": 5
+   },
+   {
+      "title": "asdasd",
+      "price": "234",
+      "thumbnail": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ffotografiamejorparavendermas.com%2Fla-importancia-de-la-imagen%2F&psig=AOvVaw2wMl8-wTPw3zDFZRH-icTM&ust=1666206323660000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjl6LG86voCFQAAAAAdAAAAABAE",
+      "id": 6
+   }
+]

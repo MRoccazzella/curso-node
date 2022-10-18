@@ -13,4 +13,7 @@ app.use(express.json());
 const routerProductos = require("./routes/routerProductos.js");
 
 app.use("/api/productos", routerProductos);
-
+const boton = document.getElementById("agregar")
+boton.addEventListener('click',() => {
+    console.log(document.getElementById("formName").value)
+})
