@@ -21,11 +21,9 @@ routerViews.get('/',  (req, res) => {
     })
 routerViews.get('/productos', (req,res) =>{
     getAll().then( (data) => {
-        console.log(data)
         res.render('tabla-productos', {productos: data} )
-    
+        
     })
 
-    
 })
 export { routerViews };

@@ -1,37 +1,30 @@
 <div>
-    <h1 class="title">Lista de productos</h1>
+  <h1 class="title">Lista de productos</h1>
 
-    <table class="product-list">
+  <table class="product-list">
+    <tr>
+      <th>Título</th>
+      <th>Precio</th>
+      <th>Miniatura</th>
+    </tr>
+    {{#if productos.length}}
+      {{#each productos}}
         <tr>
-            <th>Título</th>
-            <th>Precio</th>
-            <th>Miniatura</th>
-        </tr>
-        {{#if productos.length}}
-        {{#each productos}}
-        <tr>
-            <td>{{this.title}}</td>
-            <td>{{this.price}}</td>
-            <td><img height="72px" width="72px" src={{this.thumbnail}} /></td>
-        </tr>
-        {{/each}}
-        {{/if}}
-    </table>
+          <td>{{this.titulo}}</td>
+          <td>{{this.precio}}</td>
+          <td><img height="72px" width="72px" src={{this.thumbnail}} /></td>
+          <td>{{this.id}}</td>
 
-    <a href="/"><button>Volver al formulario de carga</button></a>
+        </tr>
+      {{/each}}
+    {{/if}}
+  </table>
+
+  <a href="/"><button>Volver al formulario de carga</button></a>
 
 </div>
 
 <style>
-    table,
-    th,
-    td {
-        border: 1px solid;
-    }
-    .title {
-        text-align: center;
-    }
-    .product-list {
-        width: 100%;
-    }
+  table, th, td { border: 1px solid; } .title { text-align: center; }
+  .product-list { width: 100%; }
 </style>
