@@ -1,0 +1,68 @@
+[
+   {
+      "titulo": "fideos",
+      "precio": 350,
+      "thumbnail": "",
+      "id": 1
+   },
+   {
+      "titulo": "arroz",
+      "precio": 300,
+      "thumbnail": "",
+      "id": 3
+   },
+   {
+      "titulo": "chocolate",
+      "precio": 500,
+      "thumbnail": "",
+      "id": 4
+   },
+   {
+      "titulo": "Harina",
+      "precio": 200,
+      "thumbnail": "",
+      "id": 5
+   },
+   {
+      "titulo": "asdasd",
+      "precio": "234",
+      "thumbnail": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ffotografiamejorparavendermas.com%2Fla-importancia-de-la-imagen%2F&psig=AOvVaw2wMl8-wTPw3zDFZRH-icTM&ust=1666206323660000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjl6LG86voCFQAAAAAdAAAAABAE",
+      "id": 6
+   },
+   {
+      "titulo": "pezcado",
+      "precio": "500",
+      "thumbnail": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ffotografiamejorparavendermas.com%2Fla-importancia-de-la-imagen%2F&psig=AOvVaw2wMl8-wTPw3zDFZRH-icTM&ust=1666206323660000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjl6LG86voCFQAAAAAdAAAAABAE",
+      "id": 7
+   },
+   {
+      "titulo": "pizza",
+      "precio": "1000",
+      "thumbnail": "https://www.istockphoto.com/es/foto/pizza-hawaiana-con-jam%C3%B3n-y-pi%C3%B1a-gm1349383878-426021008",
+      "id": 8
+   },
+   {
+      "titulo": "flores",
+      "precio": "200",
+      "thumbnail": "https://pixabay.com/images/id-1244648/",
+      "id": 9
+   },
+   {
+      "titulo": "pezcado",
+      "precio": "500",
+      "thumbnail": "",
+      "id": 10
+   },
+   {
+      "titulo": "test",
+      "precio": "500",
+      "thumbnail": "",
+      "id": 11
+   },
+   {
+      "titulo": "test2",
+      "precio": "400",
+      "thumbnail": "img.png",
+      "id": 12
+   }
+]
