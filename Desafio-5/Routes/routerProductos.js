@@ -97,7 +97,7 @@ routerProductos.delete("/:id", (req,res) => {
     deleteById(id)
       .then((data) => {
         if(data === null){
-            res.send('Error: No pudo encontrarse el producto')
+            res.send('Error: No pudo encontrarse el producto a eliminar')
         }else{
             res.send(data);
         }

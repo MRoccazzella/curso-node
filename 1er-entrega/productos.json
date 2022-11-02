@@ -1,0 +1,22 @@
+[
+   {
+      "timestamp": "2022-11-01T00:48:12.226Z",
+      "nombre": "Moneda de oro",
+      "descripcion": "Increible moneda de oro 24k",
+      "codigo": "M001",
+      "foto": "url",
+      "precio": 12000,
+      "stock": 5,
+      "id": 1
+   },
+   {
+      "timestamp": "2022-11-01T00:48:12.226Z",
+      "nombre": "Gorro",
+      "descripcion": "Increible gorro ",
+      "codigo": "M002",
+      "foto": "url",
+      "precio": 2000,
+      "stock": 52,
+      "id": 2
+   }
+]
