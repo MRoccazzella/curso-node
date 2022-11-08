@@ -6,7 +6,6 @@ import { isAdmin } from "../utils/isAdmin.js";
 const routerProductos = Router();
 const filePath = "productos.json";
 
-let productos = [];
 routerProductos.get("/", async(req, res) => {
   const product = await getAll(filePath)
     res.send(product);
